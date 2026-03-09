@@ -4,9 +4,14 @@
     <Platform Name="x64" />
   </Configurations>
   <Project Path="ClassesApp/ClassesApp.csproj" Id="f31c082e-824b-4216-8a79-74b988da16c3" />
+  <Project Path="DataBinding/DataBinding.csproj" Id="276b8158-3c80-4706-8c56-3a440486e5df" />
   <Project Path="GuessNumber/GuessNumber.csproj">
     <Platform Solution="*|x64" Project="x64" />
   </Project>
+  <Project Path="InvoiceManagement/InvoiceManagement.csproj" Id="eb86cec9-7c3d-4993-b862-a731f0adb6d7" />
+  <Project Path="MyFirstWPFApp/MyFirstWPFApp.csproj" Id="e01807a1-c569-4f2c-9c40-4f562eb3057e" />
   <Project Path="MyQuizApp2/MyQuizApp2.csproj" Id="6dc1a152-d7cd-40eb-ba93-c60633be3271" />
   <Project Path="SandBox/SandBox.csproj" Id="237ef5a0-5dbb-45cf-bc6b-3160f221b9e5" />
+  <Project Path="ToDoApp/ToDoApp.csproj" Id="7562ef62-d318-4144-96f9-d2a3bc5f94d3" />
+  <Project Path="WPFDemo/WPFDemo.csproj" Id="2cae6a3b-4d14-43ea-bd58-d962823a14da" />
 </Solution>
