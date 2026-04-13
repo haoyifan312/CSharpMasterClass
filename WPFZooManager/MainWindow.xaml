@@ -31,10 +31,10 @@
                 HorizontalAlignment="Left" 
                 Margin="10,249,0,0" 
                 VerticalAlignment="Top" Width="150" Click="DeleteZoo_Clicked"/>
-        <Button Content="Remove Animal" 
+        <Button Content="Remove Animal from Zoo" 
             HorizontalAlignment="Left" 
             Margin="180,249,0,0" 
-            VerticalAlignment="Top" Width="150"/>
+            VerticalAlignment="Top" Width="150" Click="RemoveAnimalFromZoo_Click"/>
         <Button Content="Add Zoo" 
             HorizontalAlignment="Left" 
             Margin="10,325,0,0" 
@@ -54,7 +54,7 @@
         <Button Content="Delete Animal" 
             HorizontalAlignment="Left" 
             Margin="351,349,0,0" 
-            VerticalAlignment="Top" Width="150"/>
+            VerticalAlignment="Top" Width="150" Click="DeleteAnimal_Clicked"/>
         <Button Content="Add Animal to Zoo" 
             HorizontalAlignment="Center" 
             Margin="0,324,0,0" 
